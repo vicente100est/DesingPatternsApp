@@ -1,0 +1,10 @@
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\bin\Debug\netstandard2.1\Tools.deps.json
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\bin\Debug\netstandard2.1\Tools.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\bin\Debug\netstandard2.1\Tools.pdb
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\Tools\obj\Debug\netstandard2.1\Tools.pdb

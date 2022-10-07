@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.deps.json
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\refint\DesignPatterns.Models.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Models\obj\Debug\net5.0\ref\DesignPatterns.Models.dll
