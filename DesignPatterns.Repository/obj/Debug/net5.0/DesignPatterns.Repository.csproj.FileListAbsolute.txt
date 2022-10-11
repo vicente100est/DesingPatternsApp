@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\bin\Debug\net5.0\DesignPatterns.Repository.deps.json
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\bin\Debug\net5.0\DesignPatterns.Repository.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\bin\Debug\net5.0\DesignPatterns.Repository.pdb
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\bin\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\bin\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.csproj.CopyComplete
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\refint\DesignPatterns.Repository.dll
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\DesignPatterns.Repository.pdb
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatterns.Repository\obj\Debug\net5.0\ref\DesignPatterns.Repository.dll

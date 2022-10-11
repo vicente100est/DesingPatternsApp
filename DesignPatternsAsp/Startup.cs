@@ -1,7 +1,11 @@
+using DesignPatterns.Models.Data;
+using DesignPatterns.Repository.Class;
+using DesignPatterns.Repository.Interface;
 using DesignPatternsAsp.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -9,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Tools.Earn.Class;
 
 namespace DesignPatternsAsp
 {
@@ -27,6 +32,29 @@ namespace DesignPatternsAsp
             services.AddControllersWithViews();
 
             services.Configure<CMyConfig>(Configuration.GetSection("MyConfig"));
+
+            services.AddTransient((factory) =>
+            {
+                return new CLocalEarnFactory(Configuration
+                    .GetSection("MyConfig").GetValue<decimal>("LocalPercentage"));
+            });
+
+            services.AddTransient((factory) =>
+            {
+                return new CForeignEarnFactory(Configuration
+                    .GetSection("MyConfig").GetValue<decimal>("ForeignPercentage"),
+                    Configuration
+                    .GetSection("MyConfig").GetValue<decimal>("Extra"));
+            });
+
+            services.AddDbContext<DesignPatternsAppASPContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("Connection"));
+            });
+
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
