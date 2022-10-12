@@ -75,3 +75,4 @@ C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatternsAsp\bin\Debug\net5.0\
 C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatternsAsp\bin\Debug\net5.0\DesignPatterns.Models.pdb
 C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatternsAsp\bin\Debug\net5.0\DesignPatterns.Repository.pdb
 C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatternsAsp\obj\Debug\net5.0\Razor\Views\Beer\Index.cshtml.g.cs
+C:\Users\vicen\Desktop\lab\DesignPatternsApp\DesignPatternsAsp\obj\Debug\net5.0\Razor\Views\Beer\Add.cshtml.g.cs
